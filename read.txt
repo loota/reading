@@ -1,0 +1,11 @@
+Code Complete 2nd?
+Pragmatic Programmer
+Mythical Man-Month
+JavaScript: The Good Parts
+Debugging
+Unix Power Tools, 2nd
+Regular Expressions, Friedl 2nd?
+Test Driven Development: By Example
+UML, Kenen?
+The Cathedral And The Bazaar
+Advanced Ajax: Architecture And Best Practices

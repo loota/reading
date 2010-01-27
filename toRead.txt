@@ -1,0 +1,25 @@
+Refactoring
+Zend Framework in Action
+Object-Oriented Software Construction, Meyer
+Legacy Code?
+Art of Unix Programming
+PHP Oracle Web Development
+Domain Driven Design
+Patterns of Enterprise Application Architecture
+Xunit Patterns
+PHP Design Patterns
+Regular Expressions, Friedl, 3rd
+Database Modeling And Design
+Testing Applications on the Web
+Continuous Integration
+Programming Pearls
+Practice of Programming
+Design Patterns, GoF
+World-Class Programmers' Editing Techniques...
+How to Win Friends And Influence People
+Software Engineering Metrics And Models
+Writing Secure Code
+Concurrency?
+Tietorakenteet?
+Art of Computer Programming
+SWEBOK

@@ -1,0 +1,6 @@
+15.2. Code Complete 
+28.2. Refactoring
+15.3. Zend Framework in Action, Art of Unix Programming
+15.4. PHP Oracle Web Development
+15.5. DDD
+15.6. PoEAA

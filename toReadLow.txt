@@ -1,0 +1,4 @@
+Effective C++
+More Effective C++
+The C Programming Language
+Assembly?

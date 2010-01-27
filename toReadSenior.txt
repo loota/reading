@@ -1,0 +1,10 @@
+Software Project Survival Guide
+Rapid Development
+Peopleware
+Requirements?
+Configuration Management?
+UML?
+Formal inspections?
+Pair programming?
+Usability? Designing Web Usability? Don't Make Me Think?
+The Non-Designer's Design Book 
