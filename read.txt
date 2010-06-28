@@ -1,11 +1,19 @@
-Code Complete 2nd?
+Code Complete 2nd
 Pragmatic Programmer
 Mythical Man-Month
 JavaScript: The Good Parts
 Debugging
 Unix Power Tools, 2nd
-Regular Expressions, Friedl 2nd?
+Regular Expressions, Friedl 2nd
 Test Driven Development: By Example
 UML, Kenen?
-The Cathedral And The Bazaar
 Advanced Ajax: Architecture And Best Practices
+Refactoring
+97 Things Every Software Architect..
+Gentoo Linux Install Manual (~2006)
+
+How To Become a Hacker
+The Cathedral And The Bazaar (essay)
+Debian FAQ
+CVS Pocket Guide
+Git From The Bottom Up

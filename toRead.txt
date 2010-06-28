@@ -1,25 +1,56 @@
-Refactoring
-Zend Framework in Action
-Object-Oriented Software Construction, Meyer
-Legacy Code?
-Art of Unix Programming
-PHP Oracle Web Development
-Domain Driven Design
-Patterns of Enterprise Application Architecture
-Xunit Patterns
-PHP Design Patterns
-Regular Expressions, Friedl, 3rd
-Database Modeling And Design
-Testing Applications on the Web
-Continuous Integration
-Programming Pearls
-Practice of Programming
-Design Patterns, GoF
-World-Class Programmers' Editing Techniques...
-How to Win Friends And Influence People
-Software Engineering Metrics And Models
-Writing Secure Code
-Concurrency?
-Tietorakenteet?
-Art of Computer Programming
-SWEBOK
+In progress:
+    Art of Unix Programming
+    Patterns of Enterprise Application Architecture
+    Testing Applications on the Web
+    Zend Framework in Action
+    C Programming Language
+
+Not started:
+    Design Patterns, GoF
+    Object-Oriented Software Construction, Meyer
+    Legacy Code?
+    PHP Oracle Web Development
+    Domain Driven Design
+    Xunit Patterns
+    PHP Design Patterns
+    Regular Expressions, Friedl, 3rd
+    Database Modeling And Design
+    Continuous Integration
+    Programming Pearls
+    Practice of Programming
+    World-Class Programmers' Editing Techniques...
+    How to Win Friends And Influence People
+    Software Engineering Metrics And Models
+    Writing Secure Code
+    Concurrency?
+    Data structures?
+    Art of Computer Programming
+    SWEBOK
+    SQL Antipatterns
+    A Discipline For Software Engineering
+    Programming on Purpose
+    Conceptual Blockbusting
+    Effective Java 2nd
+    Pattern Oriented Software Architecture
+    Applying UML And Patterns
+    Developing Time-Oriented Database...
+    Writing Effective Use Cases
+    Smalltalk Best Practice Patterns
+    Enterprise Java Programming With IBM Websphere
+    Extreme Programming Explained
+    Clean Code
+    Art of Agile
+    Software Test Automation
+    Principles On Software Engineering Management
+    Debian Reference Manual
+
+
+
+Not Started, short
+    Git Magic
+    Debian APT User's Guide
+    Debian Developer's Reference
+    DebianDoc-SGML Manual
+    Objects And The Web, IEEE Software March/April 2002
+    Recursive Make Considered Harmful
+    Less Is More
