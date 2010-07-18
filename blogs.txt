@@ -1,0 +1,38 @@
+Not started / found:
+    Bloch
+    Bergmann
+    Debian
+    Unix
+    Multicore
+    Database
+    Scala
+    Git
+
+
+Read some (+ means important):
+   +Atwood
+   +Fowler
+    Yegge
+   +Ajaxian
+   +Google Testing
+   +Misko Hevery
+   +Jani Hartikainen
+    A List Apart
+   +Zend Dev Zone
+    Armed and Dangerous
+    Paul Graham
+    John Resig
+   +Aaron Newton
+   +Test This Blog
+   +MooTools
+    Aaron Seigo
+    Steve McConnell
+
+
+Read a lot:
+    Spolsky
+
+
+Forums:
+    Stack Overflow
+

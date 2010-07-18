@@ -1,0 +1,7 @@
+Finished:
+
+Not started:
+    autotut
+
+In progress:
+    KDE XMLGui tutorial
