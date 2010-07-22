@@ -18,11 +18,22 @@ Not started:
     Conceptual Blockbusting
     Wicked Problems, Righteous Solutions
     Effective Java 2nd
+    Land The Tech Job You Love
+    The Passionate Programmer
+
+    Database Modeling And Design
+    Domain Driven Design
+    SQL Antipatterns
+    Conceptual Blockbusting
     Object-Oriented Software Construction, Meyer
     Pattern Oriented Software Architecture
     Psychology of Computer Programming
-    Smalltalk Best Practice Patterns
     Programming Pearls
+    Applying UML And Patterns
+    Software Creativity
+    Wicked Problems, Righteous Solutions
+    Effective Java 2nd
+    Smalltalk Best Practice Patterns
     A Discipline For Software Engineering
     Programming on Purpose
     Software Creativity
