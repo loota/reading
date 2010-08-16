@@ -5,17 +5,13 @@ In progress:
     Debian Reference Manual
     Zend Framework in Action
     Unix Power Tools 3rd
-
+    SQL Antipatterns
+    
     Recursive Make Considered Harmful
 
 Not started:
-    Land The Tech Job You Love
-    How to Win Friends And Influence People
-    The Passionate Programmer
-
     Database Modeling And Design
     Domain Driven Design
-    SQL Antipatterns
     Wicked Problems, Righteous Solutions
     Effective Java 2nd
     Object-Oriented Software Construction, Meyer
