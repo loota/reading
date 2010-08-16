@@ -12,6 +12,8 @@ In progress:
 Not started:
     Database Modeling And Design
     Domain Driven Design
+    Seven Languages in Seven Weeks
+    Pragmatic Thinking And Learning
     Wicked Problems, Righteous Solutions
     Effective Java 2nd
     Object-Oriented Software Construction, Meyer
