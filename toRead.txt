@@ -5,7 +5,7 @@ In progress:
     Debian Reference Manual
     Zend Framework in Action
     Unix Power Tools 3rd
-    SQL Antipatterns
+    PHP Manual
     
     Recursive Make Considered Harmful
 
@@ -13,7 +13,9 @@ Not started:
     Database Modeling And Design
     Domain Driven Design
     Seven Languages in Seven Weeks
+    Programming Scala
     Pragmatic Thinking And Learning
+    Conceptual Blockbusting
     Wicked Problems, Righteous Solutions
     Effective Java 2nd
     Object-Oriented Software Construction, Meyer
@@ -23,7 +25,6 @@ Not started:
     Programming Pearls
     A Discipline For Software Engineering
     Programming on Purpose
-    Conceptual Blockbusting
     Software Creativity
     Applying UML And Patterns
     Principles Of Software Engineering Management
