@@ -1,5 +1,5 @@
 In progress:
-    Patterns of Enterprise Application Architecture
+    Patterns of Enterprise Application Architecture (p. 224, Identity Field, Compound Key)
     C Programming Language
     Design Patterns, GoF
     Debian Reference Manual
