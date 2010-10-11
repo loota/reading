@@ -1,18 +1,19 @@
 In progress:
+    97 Things Every Programmer Should Know
+    Programming In Scala
+    Pragmatic Learning And Thinking
+    Design Patterns, GoF
     Patterns of Enterprise Application Architecture (p. 224, Identity Field, Compound Key)
     C Programming Language
-    Design Patterns, GoF
     Debian Reference Manual
     Zend Framework in Action
     Unix Power Tools 3rd
     PHP Manual
-    97 Things Every Programmer Should Know
-    Programming In Scala
-    Pragmatic Learning And Thinking
     
     Recursive Make Considered Harmful
 
 Not started:
+    Expert PHP5 Tools
     Database Modeling And Design
     Domain Driven Design
     Seven Languages in Seven Weeks
@@ -59,6 +60,5 @@ Not started:
     Debian Developer's Reference
 
 Not Started, short
-    Git Magic
     Objects And The Web, IEEE Software March/April 2002
     Less Is More

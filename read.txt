@@ -1,28 +1,30 @@
-Code Complete 2nd
-Pragmatic Programmer
-Mythical Man-Month
-JavaScript: The Good Parts
-Debugging
-Unix Power Tools, 2nd
-Regular Expressions, Friedl 2nd
-Test Driven Development: By Example
-UML, Kenen?
-Advanced Ajax: Architecture And Best Practices
-Refactoring: Improving The Design of Existing Code
-97 Things Every Software Architect Should Know..
-Art of Unix Programming
-Testing Applications on the Web
-Land The Tech Job You Love
-The Passionate Programmer
-How to Win Friends And Influence People
-SQL Antipatterns
+Books:
+    Code Complete 2nd
+    Pragmatic Programmer
+    Mythical Man-Month
+    JavaScript: The Good Parts
+    Debugging
+    Unix Power Tools, 2nd
+    Regular Expressions, Friedl 2nd
+    Test Driven Development: By Example
+    Advanced Ajax: Architecture And Best Practices
+    Refactoring: Improving The Design of Existing Code
+    97 Things Every Software Architect Should Know..
+    Art of Unix Programming
+    Testing Applications on the Web
+    Land The Tech Job You Love
+    The Passionate Programmer
+    How to Win Friends And Influence People
+    SQL Antipatterns
 
-How To Become a Hacker
-The Cathedral And The Bazaar (essay)
-CVS Pocket Guide
-Git From The Bottom Up
-Debian FAQ
-DebianDoc-SGML Manual
-Debian APT User's Guide 
-Gentoo Linux Install Manual (~2006)
-Language Workbenches (Fowler)
+Short:
+    How To Become a Hacker
+    The Cathedral And The Bazaar (essay)
+    CVS Pocket Guide
+    Git From The Bottom Up
+    Debian FAQ
+    DebianDoc-SGML Manual
+    Debian APT User's Guide 
+    Gentoo Linux Install Manual (~2006)
+    Language Workbenches (Fowler)
+    Git Magic
