@@ -16,6 +16,7 @@ Books:
     The Passionate Programmer
     How to Win Friends And Influence People
     SQL Antipatterns
+    Pragmatic Learning And Thinking
 
 Short:
     How To Become a Hacker

@@ -1,7 +1,6 @@
 In progress:
     97 Things Every Programmer Should Know
     Programming In Scala
-    Pragmatic Learning And Thinking
     Design Patterns, GoF
     Patterns of Enterprise Application Architecture (p. 224, Identity Field, Compound Key)
     C Programming Language
