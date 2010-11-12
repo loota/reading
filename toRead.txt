@@ -1,7 +1,6 @@
 In progress:
     97 Things Every Programmer Should Know
     Programming In Scala
-    Design Patterns, GoF
     Patterns of Enterprise Application Architecture (p. 224, Identity Field, Compound Key)
     C Programming Language
     Debian Reference Manual
@@ -16,8 +15,6 @@ Not started:
     Database Modeling And Design
     Domain Driven Design
     Seven Languages in Seven Weeks
-    Programming Scala
-    Pragmatic Thinking And Learning
     Conceptual Blockbusting
     Wicked Problems, Righteous Solutions
     Effective Java 2nd

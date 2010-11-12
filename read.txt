@@ -17,6 +17,7 @@ Books:
     How to Win Friends And Influence People
     SQL Antipatterns
     Pragmatic Learning And Thinking
+    Design Patterns, GoF
 
 Short:
     How To Become a Hacker
